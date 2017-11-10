@@ -16,6 +16,8 @@ THis is wonderful. You can't stop deploying
 
 ## How to Contribute
 
+Please fork this repositorititityeyryey
+
 ## Copyright
 
 Git Training thing for now.
