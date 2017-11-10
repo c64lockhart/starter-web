@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	James Taylor	james@email.com	notwit
 
 # THANKS
 
