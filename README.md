@@ -15,3 +15,7 @@ A purpose of the thing!
 THis is wonderful. You can't stop deploying
 
 ## How to Contribute
+
+## Copyright
+
+Git Training thing for now.
