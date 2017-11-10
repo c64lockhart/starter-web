@@ -8,6 +8,10 @@ THis is an introduction to the thing that I just described.
 
 ## Purpose
 
+A purpose of the thing!
+
 ## Deployment
+
+THis is wonderful. You can't stop deploying
 
 ## How to Contribute
