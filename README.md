@@ -6,6 +6,7 @@ Adding a line for rebasing example, to myfeature franbhc.
 ## Introduction
 
 THis is an introduction to the thing that I just described.
+THis is an emergency fix for the introduction. Shame we missed it earlier.
 
 ## Purpose
 
