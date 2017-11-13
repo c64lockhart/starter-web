@@ -1,7 +1,7 @@
 # Starter Web Project
 
 This is a description of the project for the github thing.
-Adding a line for rebasing example, to myfeature franbhc.
+Adding a line for rebasing example, to myfeature franbhc. Emergency fix after stash.
 
 ## Introduction
 
